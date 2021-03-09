@@ -1,0 +1,13 @@
+{
+  "name": "ncmdump-wasm",
+  "collaborators": [
+    "Starccy <452276725@qq.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "ncmdump_wasm_bg.wasm",
+    "ncmdump_wasm.js"
+  ],
+  "module": "ncmdump_wasm.js",
+  "sideEffects": false
+}
